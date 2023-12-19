@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CryptoLink</string>
+
+    <string name="toastErrorTitle">Error</string>
+    <string name="toastSuccessTitle">Success</string>
+    <string name="no_internet_connection">No internet connection available</string>
+
+</resources>
